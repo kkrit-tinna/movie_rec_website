@@ -1,4 +1,4 @@
-: > **Archived.** Superseded by [movierec v2]([your-v2-URL](https://github.com/kkrit-tinna/Movie-Rec-System-V2.git))
+: > **Archived.** Superseded by [movierec v2](https://github.com/kkrit-tinna/Movie-Rec-System-V2.git)
 
 # Movie Recommendation System part 2
 A movie recommendation system based on cosine similarity that suggests films similar to ones you enjoy. This package offers web-based interfaces for finding movie recommendations.
